@@ -27,7 +27,7 @@ LED cathode (–) → GND
 [my manual calculation!] ----  <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e4e16498-13ba-44c1-bfd0-648eaf3a7439" />
 
 
-https://youtu.be/bD1tHby2TJk?si=lb9sk_RIh29fJhuq
+video of it in action--- https://youtu.be/bD1tHby2TJk?si=lb9sk_RIh29fJhuq
 
 code:
 int potval;
